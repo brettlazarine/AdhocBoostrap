@@ -8,4 +8,4 @@ Utilizes:
   cards
   carousel
   
-Boostrap components were personally added to match a provided design spec.
+Bootstrap components were personally added to match a provided design spec.
