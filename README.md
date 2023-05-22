@@ -1,6 +1,6 @@
 # AdhocBoostrap
 
-A webpage built with Boostrap for a fictional company.  
+A webpage built with Bootstrap for a fictional company.  
 Utilizes:
   class-styling
   navbar
